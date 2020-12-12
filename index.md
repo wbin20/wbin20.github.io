@@ -17,20 +17,29 @@
 
 ```markdown
 
-# 激光剥蚀进样系统控制软件的研究，2019.1-2020.12
+# 激光剥蚀进样系统控制软件的研究，2019-2020
 
-# 面向高等学校学生就业推荐和评价的大数据分析技术研究，2018.09-2020.09
+# 面向高等学校学生就业推荐和评价的大数据分析技术研究，2018-2020
 
-# 智慧博物馆大数据模型与私有云架构关键技术研究，2020.01-2022.12
+# 智慧博物馆大数据模型与私有云架构关键技术研究，2020-2022
 
 ```
 
 ## 发表论文
 
 ```markdown
-[1].	Wang B（王宾）, Zhang X, Hou Y, et al. Efficient image reconstruction for fluorescence molecular tomography via linear regression approximation scheme with dual augmented Lagrangian method [J]. Multimedia Systems, 2019, 25(2): 135-145. (SCI)
-[2].	Wang B（王宾）, Jiao P, Yi H, et al. The image reconstruction for fluorescence molecular tomography via a non-uniform mesh [J]. Optical Review, 2020, 27(1): 31-38. (SCI)
-[3].	王宾，侯榆青，刘林，贺小伟. 应用改进迭代最近点方法的三维心脏点云配准[J]. 光学精密工程, 2020, 28(2): 474-484. (EI)
-[4].	Zhang T, Wang B*（王宾）, LI D, et al. Artificial Intelligence Identification of Multiple Microfossils from the Cambrian Kuanchuanpu Formation in Southern Shaanxi, China [J]. Acta Geologica Sinica‐English Edition, 2020, 94(1):189-197. (SCI)
+
+[1].Wang B（王宾）, Zhang X, Hou Y, et al. Efficient image reconstruction for fluorescence molecular tomography via 
+    linear regression approximation scheme with dual augmented Lagrangian method [J]. Multimedia Systems, 2019, 25(2): 135-145. (SCI)
+[2].Wang B（王宾）, Jiao P, Yi H, et al. The image reconstruction for fluorescence molecular tomography via 
+    a non-uniform mesh [J]. Optical Review, 2020, 27(1): 31-38. (SCI)
+[3].王宾，侯榆青，刘林，贺小伟. 应用改进迭代最近点方法的三维心脏点云配准[J]. 光学精密工程, 2020, 28(2): 474-484. (EI)
+[4].Zhang T, Wang B*（王宾）, LI D, et al. Artificial Intelligence Identification of Multiple Microfossils 
+    from the Cambrian Kuanchuanpu Formation in Southern Shaanxi, China [J]. Acta Geologica Sinica‐English Edition, 2020, 94(1):189-197. (SCI)
+
 ```
+
+## 办公与联系方式
+
+西北大学信息科学与技术学院618室
 
