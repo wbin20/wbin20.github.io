@@ -17,46 +17,18 @@
 
 ```markdown
 - List
-### 激光剥蚀进样系统控制软件的研究，2019.1-2020.12
-### 面向高等学校学生就业推荐和评价的大数据分析技术研究，2018.09-2020.09
-### 智慧博物馆大数据模型与私有云架构关键技术研究，2020.01-2022.12
+# 激光剥蚀进样系统控制软件的研究，2019.1-2020.12
+
+# 面向高等学校学生就业推荐和评价的大数据分析技术研究，2018.09-2020.09
+
+# 智慧博物馆大数据模型与私有云架构关键技术研究，2020.01-2022.12
 
 ```
 
 ## 发表论文
 
-You can use the [editor on GitHub](https://github.com/wbin20/wbin20.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[1].	Wang B（王宾）, Zhang X, Hou Y, et al. Efficient image reconstruction for fluorescence molecular tomography via linear regression approximation scheme with dual augmented Lagrangian method [J]. Multimedia Systems, 2019, 25(2): 135-145. (SCI)
+[2].	Wang B（王宾）, Jiao P, Yi H, et al. The image reconstruction for fluorescence molecular tomography via a non-uniform mesh [J]. Optical Review, 2020, 27(1): 31-38. (SCI)
+[3].	王宾，侯榆青，刘林，贺小伟. 应用改进迭代最近点方法的三维心脏点云配准[J]. 光学精密工程, 2020, 28(2): 474-484. (EI)
+[4].	Zhang T, Wang B*（王宾）, LI D, et al. Artificial Intelligence Identification of Multiple Microfossils from the Cambrian Kuanchuanpu Formation in Southern Shaanxi, China [J]. Acta Geologica Sinica‐English Edition, 2020, 94(1):189-197. (SCI)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wbin20/wbin20.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
